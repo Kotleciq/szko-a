@@ -1,11 +1,10 @@
-import imp
 from math import*
-from tkinter import W
+
 # program 1
 a=float(input('podaj a'))
 b=float(input('podaj b'))
 w=sqrt(7/(a**3+cos(b)))
-print('wartosc wyrazenia',W)
+print('wartosc wyrazenia',w)
 
 # program 2
 a=float(input('podaj a'))
